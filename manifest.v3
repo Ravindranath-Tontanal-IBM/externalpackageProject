@@ -4,7 +4,6 @@
   <value name="enabled">yes</value>
   <value name="system_package">no</value>
   <value name="version">1.0</value>
-  <value name="name">ExternalpackageProject</value>
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
@@ -12,13 +11,9 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">2</value>
+  <null name="build"/>
   <null name="description"/>
-  <value name="created_date">26-08-2025 09:20:01 GMT</value>
+  <value name="created_date">26-08-2025 07:21:34 GMT</value>
   <null name="extendedProperties"/>
-  <null name="target_server_version"/>
-  <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-08-26T09:20:05.226952009Z</value>
-  <value name="wmProjectId">fl3596a1e1e58b23641e9c85</value>
-  <value name="creator">Ravindranath Tontanal</value>
+  <value name="target_server_version">11.1.0.0</value>
 </Values>
